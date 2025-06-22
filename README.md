@@ -1,7 +1,7 @@
 <h1 align="center">hi, i’m mariam 👋</h1>
-<p align="center">🎓 biomedical engineering + cs @ <strong>johns hopkins</strong></p>
-<p align="center">💻 machine learning · computer vision · neurotech · diagnostics · robotics</p>
-<p align="center">🦔 curious about ai and human-machine interfaces</p>
+<h4 align="center">🎓 biomedical engineering + cs @ <strong>johns hopkins</strong></h4>
+<h4 align="center">💻 machine learning · computer vision · neurotech · diagnostics · robotics</h4>
+<h4 align="center">🦔 curious about ai and human-machine interfaces</h4>
 
 <br>
 
@@ -13,17 +13,17 @@
   </a>
 </p>
 
-<p align="center">
-  🧠 AI tool to detect eye conditions using PyTorch + Grad-CAM  
+<h4 align="center">
+  🧠 AI tool to detect conjunctivitis using PyTorch + Grad-CAM  
   <br>
   🌐 Flask app with doctor/patient UIs
-</p>
+</h4>
 
 <br>
 
 <h2 align="center">🔗 let's connect</h2>
 
-<p align="center">
+<h4 align="center">
   <a href="https://www.linkedin.com/in/mariam-husain-jhu/" target="_blank">🌐 linkedin</a> &nbsp;&nbsp;&nbsp;
   <a href="mailto:mariamh1121@gmail.com" target="_blank">📫 email</a>
-</p>
+</h4>
