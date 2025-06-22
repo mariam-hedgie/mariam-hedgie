@@ -5,7 +5,7 @@
 💻 using ML & computer vision for diagnostics, neuroengineering, & robotics  
 <br>
 🦔 curious about AI, cognition, and human-machine interfaces
-<br>
+<br><br>
 🚧 currently building
 [![Project: Eyedentify-AI](https://img.shields.io/badge/🧠_Project-Eyedentify--AI-purple)](https://github.com/mariam-hedgie/Eyedentify-AI)
 <br><br>
