@@ -3,18 +3,25 @@
 <p align="center">💻 machine learning · computer vision · neurotech · diagnostics · robotics</p>
 <p align="center">🦔 curious about ai and human-machine interfaces</p>
 
----
+<br>
 
-## 🚧 currently building
+<h2 align="center">🚧 currently building</h2>
 
-[![👁️ Eyedentify-AI](https://img.shields.io/badge/👁️_Eyedentify--AI-ffb6c1)](https://github.com/mariam-hedgie/eyedentify-ai)
+<p align="center">
+  <a href="https://github.com/mariam-hedgie/eyedentify-ai">
+    <img src="https://img.shields.io/badge/👁️_Eyedentify--AI-ffb6c1" alt="Eyedentify-AI badge" />
+  </a>
+</p>
 
-🧠 AI tool to detect conjunctivitis using PyTorch + Grad-CAM  
-🌐 Flask app with doctor/patient UIs 
+<p align="center">
+  🧠 AI tool to detect eye conditions using PyTorch + Grad-CAM  
+  <br>
+  🌐 Flask app with doctor/patient UIs
+</p>
 
----
+<br>
 
-## 🔗 let's connect
+<h2 align="center">🔗 let's connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mariam-husain-jhu/" target="_blank">🌐 linkedin</a> &nbsp;&nbsp;&nbsp;
