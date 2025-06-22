@@ -2,7 +2,7 @@
 <br>
 🎓 biomedical engineering + computer science undergrad @ Johns Hopkins  
 <br>
-💻 using ML & computer vision for neuroengineering, diagnostics & robotics  
+💻 using ML & computer vision for diagnostics, neuroengineering, & robotics  
 <br>
 🦔 curious about AI, cognition, and human-machine interfaces
 <br><br>
