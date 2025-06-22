@@ -14,9 +14,7 @@
 </p>
 
 <h4 align="center">
-  🧠 AI tool to detect conjunctivitis using PyTorch + Grad-CAM  
-  <br>
-  🌐 Flask app with doctor/patient UIs
+  🧠 AI tool to detect conjunctivitis using PyTorch + Grad-CAM · 🌐 Flask app with doctor/patient UIs
 </h4>
 
 <br>
