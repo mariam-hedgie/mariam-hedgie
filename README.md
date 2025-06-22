@@ -10,11 +10,11 @@
 [![👁️ Eyedentify-AI](https://img.shields.io/badge/👁️_Eyedentify--AI-ffb6c1)](https://github.com/mariam-hedgie/eyedentify-ai)
 
 🧠 AI tool to detect conjunctivitis using PyTorch + Grad-CAM  
-🌐 Flask app with doctor/patient UIs · 📈 time-based symptom tracking
+🌐 Flask app with doctor/patient UIs 
 
 ---
 
-## 🔗 get in touch
+## 🔗 let's connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mariam-husain-jhu/" target="_blank">🌐 linkedin</a> &nbsp;&nbsp;&nbsp;
