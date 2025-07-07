@@ -18,9 +18,12 @@
   🧠 AI tool to detect eye conditions using PyTorch + Grad-CAM · 🌐 Flask app with doctor/patient UIs
 </h4>
 
+<p>
+</p>
+
 <p align="center">
   <a href="https://github.com/mariam-hedgie/Surgformer-halo">
-    <img src="https://img.shields.io/badge/Surgformer (HALO)-ffb6c1"/>
+    <img src="https://img.shields.io/badge/Surgformer (HALO)-AFEEEE"/>
   </a>
 </p>
 
