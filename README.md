@@ -13,8 +13,19 @@
   </a>
 </p>
 
+
 <h4 align="center">
   🧠 AI tool to detect eye conditions using PyTorch + Grad-CAM · 🌐 Flask app with doctor/patient UIs
+</h4>
+
+<p align="center">
+  <a href="https://github.com/mariam-hedgie/Surgformer-halo">
+    <img src="https://img.shields.io/badge/Surgformer (HALO)-ffb6c1"/>
+  </a>
+</p>
+
+<h4 align="center">
+  Surgical Transformer - delivering precise, efficient surgical phase recognition 
 </h4>
 
 <br>
