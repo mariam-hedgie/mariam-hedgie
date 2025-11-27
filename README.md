@@ -15,7 +15,7 @@
 
 
 <h4 align="center">
-  🧠 AI tool to detect eye conditions using PyTorch + Grad-CAM · 🌐 Flask app with doctor/patient UIs
+  AI tool to detect eye conditions using PyTorch + Grad-CAM · 🌐 Flask app with doctor/patient UIs
 </h4>
 
 <p>
@@ -29,6 +29,18 @@
 
 <h4 align="center">
   Surgical Transformer - delivering precise, efficient surgical phase recognition 
+</h4>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/mariam-hedgie/medgemma-playground">
+    <img src="https://img.shields.io/badge/MedGemma Playground-AFEEEE"/>
+  </a>
+</p>
+
+<h4 align="center">
+  Exploring MedGemma’s vision-language architecture for fine-tuning for radiology prompting, alignment, and generation. 
 </h4>
 
 <br>
