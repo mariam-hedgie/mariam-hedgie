@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/eyedentify-ai">
-    <img src="https://img.shields.io/badge/👁️_Eyedentify--AI-97A6F2" alt="Eyedentify-AI badge" />
+    <img src="https://img.shields.io/badge/👁️_Eyedentify--AI-4A6CF7" alt="Eyedentify-AI badge" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/Surgformer-halo">
-    <img src="https://img.shields.io/badge/Surgformer (HALO)-B597F2"/>
+    <img src="https://img.shields.io/badge/Surgformer (HALO)-1F8A70"/>
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/medgemma-playground">
-    <img src="https://img.shields.io/badge/MedGemma Playground-E397F2"/>
+    <img src="https://img.shields.io/badge/MedGemma Playground-6A1B9A"/>
   </a>
 </p>
 
