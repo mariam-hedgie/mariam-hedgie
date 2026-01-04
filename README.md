@@ -34,13 +34,13 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/mariam-hedgie/medgemma-playground">
-    <img src="https://img.shields.io/badge/MedGemma Playground-6A1B9A"/>
+  <a href="https://github.com/mariam-hedgie/radiology-ai-pipelines">
+    <img src="https://img.shields.io/badge/Radiology AI Pipelines-0A2540"/>
   </a>
 </p>
 
 <h4 align="center">
-  Exploring MedGemma’s vision-language architecture for fine-tuning for radiology prompting, alignment, and generation. 
+  End-to-end radiology research pipelines spanning chest X-ray segmentation, classification, and report generation using frozen vision foundation models and lightweight task-specific heads.
 </h4>
 
 <br>
