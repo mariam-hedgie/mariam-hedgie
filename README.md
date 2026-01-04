@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/eyedentify-ai">
-    <img src="https://img.shields.io/badge/👁️_Eyedentify--AI-4A6CF7" alt="Eyedentify-AI badge" />
+    <img src="https://img.shields.io/badge/👁️_Eyedentify--5946D8" alt="Eyedentify-AI badge" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/Surgformer-halo">
-    <img src="https://img.shields.io/badge/Surgformer (HALO)-1F8A70"/>
+    <img src="https://img.shields.io/badge/Surgformer (HALO)-A246D8"/>
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/radiology-ai-pipelines">
-    <img src="https://img.shields.io/badge/Radiology AI Pipelines-0A2540"/>
+    <img src="https://img.shields.io/badge/Radiology AI Pipelines-D846C5"/>
   </a>
 </p>
 
