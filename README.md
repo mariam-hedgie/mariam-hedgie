@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/eyedentify-ai">
-    <img src="https://img.shields.io/badge/👁️_Eyedentify--5946D8" alt="Eyedentify-AI badge" />
+    <img src="https://img.shields.io/badge/👁️_Eyedentify-5946D8" alt="Eyedentify-AI badge" />
   </a>
 </p>
 
