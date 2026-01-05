@@ -40,7 +40,7 @@
 </p>
 
 <h4 align="center">
-  End-to-end radiology research pipelines spanning chest X-ray segmentation, classification, and report generation using frozen vision foundation models and lightweight task-specific heads.
+  End-to-end radiology pipelines spanning chest X-ray segmentation, classification, and report generation.
 </h4>
 
 <br>
