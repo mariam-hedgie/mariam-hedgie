@@ -8,36 +8,20 @@
 <h2 align="center">🚧 currently building</h2>
 
 <p align="center">
-  <a href="https://github.com/mariam-hedgie/eyedentify-ai">
-    <img src="https://img.shields.io/badge/👁️_Eyedentify-5946D8" alt="Eyedentify-AI badge" />
-  </a>
-</p>
-
-<h4 align="center">
-  Update: Built!
-</h4>
-<h4 align="center">
-  AI tool to detect eye conditions using PyTorch + Grad-CAM · 🌐 Flask app with doctor/patient UIs
-</h4>
-
-<p>
-</p>
-
-<p align="center">
   <a href="https://github.com/mariam-hedgie/Surgformer-halo">
-    <img src="https://img.shields.io/badge/Surgformer (HALO)-A246D8"/>
+    <img src="https://img.shields.io/badge/Surgformer (HALO)-A246D8" alt="Surgformer (HALO) badge"/>
   </a>
 </p>
 
 <h4 align="center">
-  Surgical Transformer - delivering precise, efficient surgical phase recognition 
+  Surgical Transformer — delivering precise, efficient surgical phase recognition
 </h4>
 
 <br>
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/radiology-ai-pipelines">
-    <img src="https://img.shields.io/badge/Radiology AI Pipelines-D846C5"/>
+    <img src="https://img.shields.io/badge/Radiology AI Pipelines-D846C5" alt="Radiology AI Pipelines badge"/>
   </a>
 </p>
 
@@ -47,9 +31,33 @@
 
 <br>
 
+<p align="center">
+  <a href="https://github.com/mariam-hedgie/func-neuro">
+    <img src="https://img.shields.io/badge/func--neuro-5946D8" alt="func-neuro badge"/>
+  </a>
+</p>
+
+<h4 align="center">
+  Building a pipeline combining intracranial EEG with motion-tracked video to model neural-motor dynamics using custom ML models.
+</h4>
+
+<br>
+
+<h2 align="center">✅ built</h2>
+
+<p align="center">
+  <a href="https://github.com/mariam-hedgie/eyedentify-ai">
+    <img src="https://img.shields.io/badge/👁️_Eyedentify-5946D8" alt="Eyedentify-AI badge" />
+  </a>
+</p>
+
+<h4 align="center">
+  AI tool to detect eye conditions using PyTorch + Grad-CAM · 🌐 Flask app with doctor/patient UIs
+</h4>
+
+<br>
+
 <h2 align="center">🔗 let's connect</h2>
 
 <h4 align="center">
-  <a href="https://www.linkedin.com/in/mariam-husain-jhu/" target="_blank">🌐 linkedin</a> &nbsp;&nbsp;&nbsp;
-  <a href="mailto:mariamh1121@gmail.com" target="_blank">📫 email</a>
-</h4>
+  <a href="https://www.linkedin.com/in/mariam-husain-jhu/" target="_blank">🌐 linkedin</a> &nbsp;&nbsp;&
