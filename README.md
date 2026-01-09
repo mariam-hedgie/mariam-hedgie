@@ -8,20 +8,20 @@
 <h2 align="center">🚧 currently building</h2>
 
 <p align="center">
-  <a href="https://github.com/mariam-hedgie/Surgformer-halo">
-    <img src="https://img.shields.io/badge/Surgformer (HALO)-A246D8" alt="Surgformer (HALO) badge"/>
+  <a href="https://github.com/mariam-hedgie/func-neuro">
+    <img src="https://img.shields.io/badge/func--neuro-ADFFC6" alt="func-neuro badge"/>
   </a>
 </p>
 
 <h4 align="center">
-  Surgical Transformer — delivering precise, efficient surgical phase recognition
+  Building a pipeline combining intracranial EEG with motion-tracked video to model neural-motor dynamics using custom ML models.
 </h4>
 
 <br>
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/radiology-ai-pipelines">
-    <img src="https://img.shields.io/badge/Radiology AI Pipelines-D846C5" alt="Radiology AI Pipelines badge"/>
+    <img src="https://img.shields.io/badge/Radiology AI Pipelines-FFEFAD" alt="Radiology AI Pipelines badge"/>
   </a>
 </p>
 
@@ -32,13 +32,13 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/mariam-hedgie/func-neuro">
-    <img src="https://img.shields.io/badge/func--neuro-5946D8" alt="func-neuro badge"/>
+  <a href="https://github.com/mariam-hedgie/Surgformer-halo">
+    <img src="https://img.shields.io/badge/Surgformer (HALO)-FFADE6" alt="Surgformer (HALO) badge"/>
   </a>
 </p>
 
 <h4 align="center">
-  Building a pipeline combining intracranial EEG with motion-tracked video to model neural-motor dynamics using custom ML models.
+  Surgical Transformer — delivering precise, efficient surgical phase recognition
 </h4>
 
 <br>
@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/eyedentify-ai">
-    <img src="https://img.shields.io/badge/👁️_Eyedentify-5946D8" alt="Eyedentify-AI badge" />
+    <img src="https://img.shields.io/badge/👁️_Eyedentify-ADBDFF" alt="Eyedentify-AI badge" />
   </a>
 </p>
 
@@ -57,7 +57,10 @@
 
 <br>
 
-<h2 align="center">🔗 let's connect</h2>
+<h2 align="center">🔗 Let’s connect</h2>
 
-<h4 align="center">
-  <a href="https://www.linkedin.com/in/mariam-husain-jhu/" target="_blank">🌐 linkedin</a> &nbsp;&nbsp;&
+<p align="center">
+  <a href="https://www.linkedin.com/in/mariam-husain-jhu/" target="_blank">LinkedIn</a>
+  &nbsp;|&nbsp;
+  <a href="mailto:mhusai10@jh.edu">mhusai10@jh.edu</a>
+</p>
