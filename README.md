@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/func-neuro">
-    <img src="https://img.shields.io/badge/func--neuro-ADFFC6" alt="func-neuro badge"/>
+    <img src="https://img.shields.io/badge/Functional Neurosurgery-ADFFC6" alt="func-neuro badge"/>
   </a>
 </p>
 
