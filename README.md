@@ -5,7 +5,7 @@
 
 <br>
 
-<h2 align="center">🚧 currently building</h2>
+<h2 align="center">currently building</h2>
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/functional-neurosurgery">
@@ -14,7 +14,7 @@
 </p>
 
 <h4 align="center">
-  Building a pipeline combining intracranial EEG with motion-tracked video to model neural-motor dynamics using custom ML models.
+  Combining intracranial EEG with motion-tracked video to model neural-motor dynamics using custom ML models.
 </h4>
 
 <br>
@@ -43,7 +43,7 @@
 
 <br>
 
-<h2 align="center">✅ built</h2>
+<h2 align="center">built</h2>
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/eyedentify-ai">
