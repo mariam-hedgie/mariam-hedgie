@@ -8,7 +8,7 @@
 <h2 align="center">🚧 currently building</h2>
 
 <p align="center">
-  <a href="https://github.com/mariam-hedgie/func-neuro">
+  <a href="https://github.com/mariam-hedgie/functional-neurosurgery">
     <img src="https://img.shields.io/badge/Functional Neurosurgery-ADFFC6" alt="func-neuro badge"/>
   </a>
 </p>
