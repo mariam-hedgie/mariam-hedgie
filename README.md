@@ -19,6 +19,20 @@
 
 <br>
 
+<h2 align="center">built</h2>
+
+<p align="center">
+  <a href="https://github.com/mariam-hedgie/eyedentify-ai">
+    <img src="https://img.shields.io/badge/👁️_Eyedentify-ADBDFF" alt="Eyedentify-AI badge" />
+  </a>
+</p>
+
+<h4 align="center">
+  AI tool to detect eye conditions using PyTorch + Grad-CAM · 🌐 Flask app with doctor/patient UIs
+</h4>
+
+<br>
+
 <p align="center">
   <a href="https://github.com/mariam-hedgie/radiology-ai-pipelines">
     <img src="https://img.shields.io/badge/Radiology AI Pipelines-FFEFAD" alt="Radiology AI Pipelines badge"/>
@@ -32,27 +46,13 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/mariam-hedgie/Surgformer-halo">
-    <img src="https://img.shields.io/badge/Surgformer (HALO)-FFADE6" alt="Surgformer (HALO) badge"/>
+  <a href="https://github.com/mariam-hedgie/neurostream">
+    <img src="https://img.shields.io/badge/NeuroStream-FFADE6" alt="NeuroStream badge"/>
   </a>
 </p>
 
 <h4 align="center">
-  Surgical Transformer — delivering precise, efficient surgical phase recognition
-</h4>
-
-<br>
-
-<h2 align="center">built</h2>
-
-<p align="center">
-  <a href="https://github.com/mariam-hedgie/eyedentify-ai">
-    <img src="https://img.shields.io/badge/👁️_Eyedentify-ADBDFF" alt="Eyedentify-AI badge" />
-  </a>
-</p>
-
-<h4 align="center">
-  AI tool to detect eye conditions using PyTorch + Grad-CAM · 🌐 Flask app with doctor/patient UIs
+  Real-time neural signal simulation and quality monitoring system with automated incident logging and diagnostic rules.
 </h4>
 
 <br>
