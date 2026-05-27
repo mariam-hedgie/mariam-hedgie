@@ -20,29 +20,16 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/mariam-hedgie/radiology-ai-pipelines">
-    <img src="https://img.shields.io/badge/Radiology AI Pipelines-FFEFAD" alt="Radiology AI Pipelines badge"/>
-  </a>
-</p>
-
-<h4 align="center">
-  End-to-end radiology pipelines spanning chest X-ray segmentation, classification, and report generation.
-</h4>
-
-<br>
-
-<p align="center">
   <a href="https://github.com/EtalumaSupport/LumaViewPro">
     <img src="https://img.shields.io/badge/LumaViewPro Microscopy Software-FFEFAD" alt="LumaViewPro Microscopy Software badge"/>
   </a>
 </p>
 
 <h4 align="center">
-  Created tile stitching and seam blending algorithms.
+  Creating tile stitching and seam blending algorithms.
 </h4>
 
 <br>
-
 
 <h2 align="center">built</h2>
 
@@ -54,6 +41,18 @@
 
 <h4 align="center">
   AI tool to detect eye conditions using PyTorch + Grad-CAM · 🌐 Flask app with doctor/patient UIs
+</h4>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/mariam-hedgie/radiology-ai-pipelines">
+    <img src="https://img.shields.io/badge/Radiology AI Pipelines-FFEFAD" alt="Radiology AI Pipelines badge"/>
+  </a>
+</p>
+
+<h4 align="center">
+  End-to-end radiology pipelines spanning chest X-ray segmentation, classification, and report generation.
 </h4>
 
 <br>
