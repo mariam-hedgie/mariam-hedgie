@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/functional-neurosurgery">
-    <img src="https://img.shields.io/badge/Functional Neurosurgery-ADFFC6" alt="func-neuro badge"/>
+    <img src="https://img.shields.io/badge/Functional Neurosurgery-FFCFEA" alt="func-neuro badge"/>
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://github.com/EtalumaSupport/LumaViewPro">
-    <img src="https://img.shields.io/badge/LumaViewPro Microscopy Software-FFEFAD" alt="LumaViewPro Microscopy Software badge"/>
+    <img src="https://img.shields.io/badge/LumaViewPro Microscopy Software-F7D9E9" alt="LumaViewPro Microscopy Software badge"/>
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/eyedentify-ai">
-    <img src="https://img.shields.io/badge/👁️_Eyedentify-ADBDFF" alt="Eyedentify-AI badge" />
+    <img src="https://img.shields.io/badge/👁️_Eyedentify-E4EDE7" alt="Eyedentify-AI badge" />
   </a>
 </p>
 
@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/radiology-ai-pipelines">
-    <img src="https://img.shields.io/badge/Radiology AI Pipelines-FFEFAD" alt="Radiology AI Pipelines badge"/>
+    <img src="https://img.shields.io/badge/Radiology AI Pipelines-DAF6E5" alt="Radiology AI Pipelines badge"/>
   </a>
 </p>
 
@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/neurostream">
-    <img src="https://img.shields.io/badge/NeuroStream-FFADE6" alt="NeuroStream badge"/>
+    <img src="https://img.shields.io/badge/NeuroStream-CFFFE4" alt="NeuroStream badge"/>
   </a>
 </p>
 
