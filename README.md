@@ -8,18 +8,6 @@
 <h2 align="center">currently building</h2>
 
 <p align="center">
-  <a href="https://github.com/mariam-hedgie/functional-neurosurgery">
-    <img src="https://img.shields.io/badge/Functional Neurosurgery-FFCFEA" alt="func-neuro badge"/>
-  </a>
-</p>
-
-<h4 align="center">
-  Combining intracranial EEG with motion-tracked video to model neural-motor dynamics using custom ML models.
-</h4>
-
-<br>
-
-<p align="center">
   <a href="https://github.com/EtalumaSupport/LumaViewPro">
     <img src="https://img.shields.io/badge/LumaViewPro Microscopy Software-F7D9E9" alt="LumaViewPro Microscopy Software badge"/>
   </a>
