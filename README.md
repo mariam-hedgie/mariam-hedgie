@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/EtalumaSupport/LumaViewPro">
-    <img src="https://img.shields.io/badge/LumaViewPro Microscopy Software-F7D9E9" alt="LumaViewPro Microscopy Software badge"/>
+    <img src="https://img.shields.io/badge/LumaViewPro%20Microscopy%20Software-F7D9E9" alt="LumaViewPro Microscopy Software badge" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/eyedentify-ai">
-    <img src="https://img.shields.io/badge/👁️_Eyedentify-E4EDE7" alt="Eyedentify-AI badge" />
+    <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F_Eyedentify-E4EDE7" alt="Eyedentify-AI badge" />
   </a>
 </p>
 
@@ -34,20 +34,20 @@
 <br>
 
 <p align="center">
-  <a href=[["https://github.com/mariam-hedgie/radiology-ai-pipelines"](https://github.com/mariam-hedgie/RadJEPA)](https://github.com/mariam-hedgie/RadJEPA)>
-    <img src="https://img.shields.io/badge/Radiology AI Pipelines-DAF6E5" alt="Radiology AI Pipelines badge"/>
+  <a href="https://github.com/mariam-hedgie/RadJEPA">
+    <img src="https://img.shields.io/badge/Radiology%20AI%20Pipelines-DAF6E5" alt="Radiology AI Pipelines badge" />
   </a>
 </p>
 
 <h4 align="center">
-  End-to-end radiology pipelines spanning chest X-ray segmentation, classification, and report generation.
+  Self-supervised radiology representation learning · JEPA, DICOM processing, and medical imaging pipelines
 </h4>
 
 <br>
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/neurostream">
-    <img src="https://img.shields.io/badge/NeuroStream-CFFFE4" alt="NeuroStream badge"/>
+    <img src="https://img.shields.io/badge/NeuroStream-CFFFE4" alt="NeuroStream badge" />
   </a>
 </p>
 
@@ -60,7 +60,7 @@
 <h2 align="center">🔗 Let’s connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mariam-husain-jhu/" target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/mariam-husain-jhu/">LinkedIn</a>
   &nbsp;|&nbsp;
   <a href="mailto:mhusai10@jh.edu">mhusai10@jh.edu</a>
 </p>
