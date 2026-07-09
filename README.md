@@ -34,7 +34,7 @@
 <br>
 
 <p align="center">
-  <a href=["https://github.com/mariam-hedgie/radiology-ai-pipelines"](https://github.com/mariam-hedgie/RadJEPA)>
+  <a href=[["https://github.com/mariam-hedgie/radiology-ai-pipelines"](https://github.com/mariam-hedgie/RadJEPA)](https://github.com/mariam-hedgie/RadJEPA)>
     <img src="https://img.shields.io/badge/Radiology AI Pipelines-DAF6E5" alt="Radiology AI Pipelines badge"/>
   </a>
 </p>
