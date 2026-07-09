@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/RadJEPA">
-    <img src="https://img.shields.io/badge/Radiology%20AI%20Pipelines-DAF6E5" alt="Radiology AI Pipelines badge" />
+    <img src="https://img.shields.io/badge/RadJEPA-DAF6E5" alt="RadJEPA badge">
   </a>
 </p>
 
