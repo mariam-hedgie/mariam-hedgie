@@ -59,7 +59,7 @@
   </a>
 </p>
 <h4 align="center">
-  Self-supervised radiology encoder · matches models 13x larger · 2nd author, ARR
+  Self-supervised radiology encoder · matches models 13x larger · 2nd author, preprint
 </h4>
 
 <br>
