@@ -24,7 +24,7 @@
   </a>
 </p>
 <h4 align="center">
-  🔒 AI microscopy analysis platform · restoration, segmentation, quantification
+  AI microscopy analysis platform · restoration, segmentation, quantification
 </h4>
 
 <br>
@@ -46,7 +46,7 @@
   </a>
 </p>
 <h4 align="center">
-  🔒 RAG-grounded VLM for surgical video · submitting to MICCAI 2026
+  RAG-grounded VLM for surgical video · submitting to MICCAI 2026
 </h4>
 
 <br>
