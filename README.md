@@ -13,7 +13,7 @@
   </a>
 </p>
 <h4 align="center">
-  Open-source microscope control software (Etaluma) · contributing overlap-aware tile stitching, achieving 7.7x-16.2x measured speedups
+  Open-source microscope control software (Etaluma) · 7.7x-16.2x stitching speedup
 </h4>
 
 <br>
@@ -24,7 +24,7 @@
   </a>
 </p>
 <h4 align="center">
-  🔒 AI-powered microscopy analysis platform — restoration, segmentation, quantification · independently conceived and built
+  🔒 AI microscopy analysis platform · restoration, segmentation, quantification
 </h4>
 
 <br>
@@ -35,7 +35,7 @@
   </a>
 </p>
 <h4 align="center">
-  🚧 wip · preprocessing for early ischemic stroke visibility on non-contrast CT, for low-resource/first-line imaging settings
+  🚧 wip · NCCT preprocessing for early stroke visibility
 </h4>
 
 <br>
@@ -46,7 +46,7 @@
   </a>
 </p>
 <h4 align="center">
-  Retrieval-augmented VLM grounding for surgical video · text, video, and multimodal RAG · submitting to MICCAI 2026 workshop
+  🔒 RAG-grounded VLM for surgical video · submitting to MICCAI 2026
 </h4>
 
 <br>
@@ -59,7 +59,7 @@
   </a>
 </p>
 <h4 align="center">
-  Self-supervised radiology representation learning · JEPA-based, 86M params matching encoders up to 13x larger · 2nd author, submitted to ARR
+  Self-supervised radiology encoder · matches models 13x larger · 2nd author, ARR
 </h4>
 
 <br>
@@ -70,7 +70,7 @@
   </a>
 </p>
 <h4 align="center">
-  Similarity analysis for closed-loop neurostimulation · evaluating cross-subject and synthetic training-data transfer
+  Similarity analysis for closed-loop neurostimulation transfer
 </h4>
 
 <br>
@@ -81,7 +81,7 @@
   </a>
 </p>
 <h4 align="center">
-  AI tool to detect eye conditions using PyTorch + Grad-CAM · full-stack Flask app with doctor/patient UIs
+  Eye condition detection · PyTorch + Grad-CAM · full-stack Flask app
 </h4>
 
 <br>
