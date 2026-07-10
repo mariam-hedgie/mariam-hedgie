@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/EtalumaSupport/LumaViewPro">
-    <img src="https://img.shields.io/badge/LumaViewPro-F7D9E9" alt="LumaViewPro badge" />
+    <img src="https://img.shields.io/badge/LumaViewPro-FFA3EE" alt="LumaViewPro badge" />
   </a>
 </p>
 <h4 align="center">
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/lumaquant-pro">
-    <img src="https://img.shields.io/badge/LumaQuant_Pro-FCE8D5" alt="LumaQuant Pro badge" />
+    <img src="https://img.shields.io/badge/LumaQuant_Pro-FFE2A3" alt="LumaQuant Pro badge" />
   </a>
 </p>
 <h4 align="center">
@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/ncct-stroke-preprocessing">
-    <img src="https://img.shields.io/badge/NCCT_Stroke_Preprocessing-D8E8FC" alt="NCCT Stroke Preprocessing badge" />
+    <img src="https://img.shields.io/badge/NCCT_Stroke_Preprocessing-EEFFA3" alt="NCCT Stroke Preprocessing badge" />
   </a>
 </p>
 <h4 align="center">
@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/surgical-rag-scene-understanding">
-    <img src="https://img.shields.io/badge/Surgical_RAG-E5DCF5" alt="Surgical RAG badge" />
+    <img src="https://img.shields.io/badge/Surgical_RAG-A3FFB4" alt="Surgical RAG badge" />
   </a>
 </p>
 <h4 align="center">
@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/RadJEPA">
-    <img src="https://img.shields.io/badge/RadJEPA-DAF6E5" alt="RadJEPA badge">
+    <img src="https://img.shields.io/badge/RadJEPA-A3EEFF" alt="RadJEPA badge">
   </a>
 </p>
 <h4 align="center">
@@ -66,7 +66,7 @@
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/neural-phase-transfer-analysis">
-    <img src="https://img.shields.io/badge/Neural_Phase_Transfer_Analysis-CFFFE4" alt="Neural Phase Transfer Analysis badge" />
+    <img src="https://img.shields.io/badge/Neural_Phase_Transfer_Analysis-A3C0FF" alt="Neural Phase Transfer Analysis badge" />
   </a>
 </p>
 <h4 align="center">
@@ -77,7 +77,7 @@
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/eyedentify-ai">
-    <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F_Eyedentify--AI-E4EDE7" alt="Eyedentify-AI badge" />
+    <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F_Eyedentify--AI-E2A3FF" alt="Eyedentify-AI badge" />
   </a>
 </p>
 <h4 align="center">
