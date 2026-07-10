@@ -5,7 +5,7 @@
 
 <br>
 
-<h2 align="center">currently building</h2>
+<h2 align="center">🚧 currently building 🚧</h2>
 
 <p align="center">
   <a href="https://github.com/EtalumaSupport/LumaViewPro">
@@ -35,7 +35,7 @@
   </a>
 </p>
 <h4 align="center">
-  🚧 wip · NCCT preprocessing for early stroke visibility
+  NCCT preprocessing for early stroke visibility
 </h4>
 
 <br>
@@ -51,7 +51,7 @@
 
 <br>
 
-<h2 align="center">built</h2>
+<h2 align="center">🎉 built 🎉</h2>
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/RadJEPA">
