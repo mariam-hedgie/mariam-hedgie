@@ -91,5 +91,6 @@
   <a href="https://www.linkedin.com/in/mariam-husain-jhu/">linkedin</a>
   &nbsp;|&nbsp;
   <a href="mailto:mhusai10@jh.edu">mhusai10@jh.edu</a>
+  &nbsp;|&nbsp;
   <a href="https://mariam-husain.vercel.app/">my portfolio</a>
 </p>
