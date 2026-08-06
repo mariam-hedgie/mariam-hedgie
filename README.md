@@ -8,17 +8,6 @@
 <h2 align="center">🚧 currently building 🚧</h2>
 
 <p align="center">
-  <a href="https://github.com/EtalumaSupport/LumaViewPro">
-    <img src="https://img.shields.io/badge/LumaViewPro-FFA3EE" alt="LumaViewPro badge" />
-  </a>
-</p>
-<h4 align="center">
-  Open-source microscope control software (Etaluma) · 7.7x-16.2x stitching speedup
-</h4>
-
-<br>
-
-<p align="center">
   <a href="https://github.com/mariam-hedgie/lumaquant-pro">
     <img src="https://img.shields.io/badge/LumaQuant_Pro-FFE2A3" alt="LumaQuant Pro badge" />
   </a>
@@ -52,6 +41,17 @@
 <br>
 
 <h2 align="center">🎉 built 🎉</h2>
+
+<p align="center">
+  <a href="https://github.com/EtalumaSupport/LumaViewPro">
+    <img src="https://img.shields.io/badge/LumaViewPro-FFA3EE" alt="LumaViewPro badge" />
+  </a>
+</p>
+<h4 align="center">
+  Open-source microscope control software (Etaluma) · 7.7x-16.2x stitching speedup
+</h4>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/mariam-hedgie/RadJEPA">
